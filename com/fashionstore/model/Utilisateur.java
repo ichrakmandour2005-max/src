@@ -12,3 +12,4 @@ public abstract class Utilisateur {
     public void setMotDePasse(String motDePasse){this.motDePasse=motDePasse;}
     public abstract String getRole();
 }
+
